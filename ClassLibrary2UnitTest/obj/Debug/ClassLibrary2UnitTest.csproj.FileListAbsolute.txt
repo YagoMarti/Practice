@@ -1,0 +1,14 @@
+C:\Users\Y\Documents\Visual Studio 2013\Projects\CA\ClassLibrary2UnitTest\bin\Debug\ClassLibrary2UnitTest.dll
+C:\Users\Y\Documents\Visual Studio 2013\Projects\CA\ClassLibrary2UnitTest\bin\Debug\ClassLibrary2UnitTest.pdb
+C:\Users\Y\Documents\Visual Studio 2013\Projects\CA\ClassLibrary2UnitTest\obj\Debug\ClassLibrary2UnitTest.dll
+C:\Users\Y\Documents\Visual Studio 2013\Projects\CA\ClassLibrary2UnitTest\obj\Debug\ClassLibrary2UnitTest.pdb
+C:\Users\Y\Documents\Visual Studio 2013\Projects\CA\ClassLibrary2UnitTest\obj\Debug\ClassLibrary2UnitTest.csprojResolveAssemblyReference.cache
+C:\Users\Y\Documents\Visual Studio 2013\Projects\CA\ClassLibrary2UnitTest\bin\Debug\ClassLibrary2.dll
+C:\Users\Y\Documents\Visual Studio 2013\Projects\CA\ClassLibrary2UnitTest\bin\Debug\ClassLibrary2.pdb
+C:\Users\Y\Desktop\Practice\ClassLibrary2UnitTest\bin\Debug\ClassLibrary2UnitTest.dll
+C:\Users\Y\Desktop\Practice\ClassLibrary2UnitTest\bin\Debug\ClassLibrary2UnitTest.pdb
+C:\Users\Y\Desktop\Practice\ClassLibrary2UnitTest\bin\Debug\ClassLibrary2.dll
+C:\Users\Y\Desktop\Practice\ClassLibrary2UnitTest\bin\Debug\ClassLibrary2.pdb
+C:\Users\Y\Desktop\Practice\ClassLibrary2UnitTest\obj\Debug\ClassLibrary2UnitTest.csprojResolveAssemblyReference.cache
+C:\Users\Y\Desktop\Practice\ClassLibrary2UnitTest\obj\Debug\ClassLibrary2UnitTest.dll
+C:\Users\Y\Desktop\Practice\ClassLibrary2UnitTest\obj\Debug\ClassLibrary2UnitTest.pdb

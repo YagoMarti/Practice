@@ -1,0 +1,10 @@
+C:\Users\Y\Documents\Visual Studio 2013\Projects\CA\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+C:\Users\Y\Documents\Visual Studio 2013\Projects\CA\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+C:\Users\Y\Documents\Visual Studio 2013\Projects\CA\ClassLibrary2\obj\Debug\ClassLibrary2.csprojResolveAssemblyReference.cache
+C:\Users\Y\Documents\Visual Studio 2013\Projects\CA\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+C:\Users\Y\Documents\Visual Studio 2013\Projects\CA\ClassLibrary2\obj\Debug\ClassLibrary2.pdb
+C:\Users\Y\Desktop\Practice\ClassLibrary2\bin\Debug\ClassLibrary2.dll
+C:\Users\Y\Desktop\Practice\ClassLibrary2\bin\Debug\ClassLibrary2.pdb
+C:\Users\Y\Desktop\Practice\ClassLibrary2\obj\Debug\ClassLibrary2.csprojResolveAssemblyReference.cache
+C:\Users\Y\Desktop\Practice\ClassLibrary2\obj\Debug\ClassLibrary2.dll
+C:\Users\Y\Desktop\Practice\ClassLibrary2\obj\Debug\ClassLibrary2.pdb
